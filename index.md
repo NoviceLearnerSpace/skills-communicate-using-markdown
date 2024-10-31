@@ -8,3 +8,7 @@ I also like cats.
 ``` javascript
 var myGreeting = "Hello, cats!";
 ```
+
+- [ ] Wake up
+- [ ] Drink Water
+- [ ] Continue with learning Github
